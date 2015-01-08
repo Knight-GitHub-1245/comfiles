@@ -1,0 +1,2 @@
+#!/bin/sh
+mysql -uroot -p`cat /data/save/mysql_root`
